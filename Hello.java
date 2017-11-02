@@ -4,7 +4,8 @@ public class Hello {
 
       System.out.println("Hello Git");
       System.out.println("www.mldn.cn");    
-      System.out.println("good job");  
+      System.out.println("good job");
+      System.out.println("nihao");    
    }
     
 }
